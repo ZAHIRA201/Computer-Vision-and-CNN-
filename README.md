@@ -77,7 +77,7 @@ If you enjoyed the above python project, do comment and let us know your thought
 
 Happy learning😊
 
-Follow Me on LinkedIn at <a href = "https://www.linkedin.com/in/chakir-fatima-ez-zahra/">@_hemanth_shetty__</a>
+Follow Me on LinkedIn at <a href = "https://www.linkedin.com/in/chakir-fatima-ez-zahra/">@CHAKIR Fatima Ez-zahra</a>
 
 #### ThankYou!
 
