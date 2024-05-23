@@ -1,4 +1,4 @@
-# Identity Card : Images Classification by Age and Gender using a Convolutional Neural Network (CNN), Personal Infos Extraction using OpenCV and PyTesseract
+# Identity Card : Images Classification by Age and Gender using a Convolutional Neural Network (CNN), Personal Infos Extraction using Computer Vision tools such OpenCV and PyTesseract
 
 First introducing you with the terminologies used in this advanced python project of Gender and Age Classification and Text Extraction 
 
