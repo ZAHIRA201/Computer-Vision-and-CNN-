@@ -14,7 +14,7 @@ OpenCV is short for Open Source Computer Vision. Intuitively by the name, it is 
 
 <p>A <em><strong><a href="https://data-flair.training/blogs/convolutional-neural-networks/">Convolutional Neural Network</a></strong></em> is a deep neural network (DNN) widely used for the purposes of image recognition and processing and <em><strong><a href="https://data-flair.training/blogs/nlp-natural-language-processing/">NLP</a></strong></em>. Also known as a ConvNet, a CNN has input and output layers, and multiple hidden layers, many of which are convolutional. In a way, CNNs are regularized multilayer perceptrons.</p>
 
-## Gender and Age Detection Python Project Objective
+## Python Project Objective
 
 <p>To build a gender and age detector and extractor that can approximately guess the gender and age of the person (face), extract personal infos from an Identity Card using <a href="https://data-flair.training/blogs/deep-learning/"><em><strong>Deep Learning</strong></em></a> on the Adience dataset.</p>
 
