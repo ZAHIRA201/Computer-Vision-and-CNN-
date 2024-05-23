@@ -18,7 +18,9 @@ OpenCV is short for Open Source Computer Vision. Intuitively by the name, it is 
 
 <p>To build a gender and age detector that can approximately guess the gender and age of the person (face) in a Identity Card using <a href="https://data-flair.training/blogs/deep-learning/"><em><strong>Deep Learning</strong></em></a> on the Adience dataset.</p>
 
-# Gender and Age Detection – About the Project
+# Gender and Age Classification
+
+## Gender and Age Detection – About the Project
 
 <p>In this Python Project, we will use Deep Learning to accurately identify the gender and age of a person from a single image of a face. The predicted gender may be one of ‘Male’ and ‘Female’, and the predicted age may be one of the following ranges- (0 – 2), (4 – 6), (8 – 12), (15 – 20), (25 – 32), (38 – 43), (48 – 53), (60 – 100) (8 nodes in the final softmax layer). It is very difficult to accurately guess an exact age from a single image because of factors like makeup, lighting, obstructions, and facial expressions. And so, we make this a classification problem instead of making it one of regression.</p>
 
@@ -34,7 +36,7 @@ To go about the python project, we’ll:
 
 <ul><li>Detect faces</li><li>Classify into Male/Female</li><li>Classify into one of the 8 age ranges</li><li>Put the results on the image and display it</li></ul>
 
-# The Dataset
+## The Dataset
 
 The dataset has been linked in the main.py program......when u run the program, dataset will be downloaded automatically and load to the program training set. If u want use a different dataset. You can through the below link from Kaggle datasets.
 
@@ -48,7 +50,7 @@ You’ll need to install OpenCV (cv2) to be able to run this project. You can do
    
 Other packages you’ll be needing are math and argparse, but those come as part of the standard Python library.
 
-## Text Extraction 
+# Text Extraction (Personal Informations of Identity Card)
 Personal Infos Extractor - Automatic Data Extraction from Identity Cards
 
 Description:
