@@ -53,16 +53,16 @@ Other packages you’ll be needing are math and argparse, but those come as part
 # Text Extraction (Personal Informations of Identity Card)
 Personal Infos Extractor - Automatic Data Extraction from Identity Cards
 
-Description:
+## Description:
 We utilized computer vision and text extraction techniques to extract key information from identity cards. By uploading an image of our card, the application automatically parses the data and presents it in a clear and organized manner.
 
-Features:
+## Features:
 
 Automatic Data Extraction: Extracts essential fields from the card, including province, regency, identification number, name, gender, blood type, address, village, district, religion, marital status, profession, and validity period.
 User-Friendly Interface: Simple and intuitive interface with a dedicated upload field and a well-structured display for the extracted data.
 Image Processing: Robust image processing techniques handle variations in image quality and lighting conditions for accurate data extraction.
 
-How to Use:
+## How to Use:
 
 Install Dependencies: Ensure you have OpenCV, PyTesseract, and Flet libraries installed (pip install opencv-python pytesseract flet).
 Run the Application: Execute the Python script (python main.py).
