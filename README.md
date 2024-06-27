@@ -24,6 +24,8 @@ OpenCV is short for Open Source Computer Vision. Intuitively by the name, it is 
 
 <p>In this Python Project, we will use Deep Learning to accurately identify the gender and age of a person from a single image of a face. The predicted gender may be one of ‘Male’ and ‘Female’, and the predicted age may be one of the following ranges- (0 – 2), (4 – 6), (8 – 12), (15 – 20), (25 – 32), (38 – 43), (48 – 53), (60 – 100) (8 nodes in the final softmax layer). It is very difficult to accurately guess an exact age from a single image because of factors like makeup, lighting, obstructions, and facial expressions. And so, we make this a classification problem instead of making it one of regression.</p>
 
+![Carte](https://github.com/ZAHIRA201/Computer-Vision-and-CNN-/assets/120922044/e33385ee-c691-4fc1-b34f-33163a30e31a)
+
 ## The CNN Architecture
 
 The convolutional neural network for this python project has 3 convolutional layers:
@@ -31,6 +33,10 @@ The convolutional neural network for this python project has 3 convolutional lay
 <ul><li>Convolutional layer; 96 nodes, kernel size 7</li><li>Convolutional layer; 256 nodes, kernel size 5</li><li>Convolutional layer; 384 nodes, kernel size 3</li></ul>
 
 It has 2 fully connected layers, each with 512 nodes, and a final output layer of softmax type.
+
+![Gender](https://github.com/ZAHIRA201/Computer-Vision-and-CNN-/assets/120922044/4d659770-051c-404e-a63d-8d081c67f354)
+
+![AGE](https://github.com/ZAHIRA201/Computer-Vision-and-CNN-/assets/120922044/4b69f16c-a5de-4e84-b9b7-fa92fdf92d88)
 
 To go about the python project, we’ll:
 
@@ -61,6 +67,8 @@ We utilized computer vision and text extraction techniques to extract key inform
 Automatic Data Extraction: Extracts essential fields from the card, including province, regency, identification number, name, gender, blood type, address, village, district, religion, marital status, profession, and validity period.
 User-Friendly Interface: Simple and intuitive interface with a dedicated upload field and a well-structured display for the extracted data.
 Image Processing: Robust image processing techniques handle variations in image quality and lighting conditions for accurate data extraction.
+
+![infos](https://github.com/ZAHIRA201/Computer-Vision-and-CNN-/assets/120922044/14b91047-4c71-47e8-8d9b-563ada591071)
 
 ## How to Use:
 
